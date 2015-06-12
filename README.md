@@ -1,0 +1,2 @@
+# CyclePicturesView
+用collectionView实现的无限循环的图片轮播器。
